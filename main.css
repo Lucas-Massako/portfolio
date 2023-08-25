@@ -1,0 +1,16 @@
+#row{
+    background: linear-gradient(to bottom, #add8e6, #1818d4);
+    padding: 20px;
+    border: solid darkblue
+
+  }
+
+ a{ padding-top: 5px;}
+
+ footer{ background: linear-gradient(to bottom, #1818d4, #add8e6);
+    padding: 20px;}
+
+/**
+body{ background: radial-gradient( #add8e6,#1818d4 );} **/
+
+a{ color:goldenrod;}
